@@ -33,6 +33,9 @@ The dataset undergoes extensive preprocessing, including:
 
 ## Usage
 
+You can access and download the dataset from the following link:  
+[Download GAFND](https://drive.google.com/file/d/1BdxUs_ObDSAo3F9jXp8AfCcfwAUMmhB-/view?usp=sharing)
+
 [Provide instructions on how to load and use the dataset]
 
 ## Citation
