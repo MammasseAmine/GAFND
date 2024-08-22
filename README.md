@@ -41,8 +41,14 @@ You can access and download the dataset from the following link:
 ## Citation
 
 If you use this dataset in your research, please cite:  
-[Provide citation information]
-
+```bibtex
+@article{amine_creating_nodate,
+  title = {Creating a Global Arabic Fake News Dataset},
+  abstract = {The viral spread of misinformation in our interconnected world threatens the fabric of social trust and undermines the integrity of public perception, particularly in the Arabic-speaking world where resources for combating misinformation are limited. To address this challenge, we introduce the Global Arabic Fake News Dataset (GAFND), a comprehensive and unified dataset designed to enhance fake news detection in Arabic contexts. We combine three existing datasets—AFND, ANS, and AraFacts to create a larger, more diverse, and high-quality resource that captures the linguistic and cultural nuances of Arabic fake news. This combination is essential to overcome the limitations of individual datasets, such as size, diversity, and representation, which can lead to biased and inaccurate models. The resulting dataset comprises over 380,000 entries, enriched with features such as URL count, stopword count, emoji count, and special character count, facilitating nuanced analysis and improving detection performance. GAFND represents a significant step forward in Arabic fake news detection research, ultimately contributing to the fight against misinformation and supporting media literacy in Arabic-speaking communities.},
+  language = {en},
+  author = {Amine, MAMMASSE and Bedjou, Khaled and Azouaou, Faical},
+}
+```
 ## License
 
 [Specify the license under which the dataset is released]
