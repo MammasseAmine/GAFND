@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7751c705-f7b5-4a95-9e63-2021a60df3a8)# GAFND
+# GAFND
 The Global Arabic Fake News Dataset (GAFND) is a comprehensive and unified resource designed to enhance fake news detection in the Arabic-speaking world. This dataset integrates and preprocesses three existing datasets: AFND, ANS, and AraFacts.
 
 # Dataset Description
