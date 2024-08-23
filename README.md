@@ -42,7 +42,7 @@ Below are visual representations of various aspects of the dataset.
 ## Usage
 
 You can access and download the dataset from the following link:  
-[Download GAFND](https://drive.google.com/file/d/1BdxUs_ObDSAo3F9jXp8AfCcfwAUMmhB-/view?usp=sharing)
+<img src="https://github.com/MammasseAmine/GAFND/blob/main/EDA/Label%20Distribution.png?raw=true">
 
 [Provide instructions on how to load and use the dataset]
 
