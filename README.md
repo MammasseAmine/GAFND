@@ -31,6 +31,14 @@ The dataset undergoes extensive preprocessing, including:
 - Stopword removal
 - Non-Arabic character removal
 
+# Data Visualization
+Below are visual representations of various aspects of the dataset.
+
+<details>
+  <summary>Label Distribution</summary>
+![Label Distribution]([path/to/label_distribution.png](https://github.com/MammasseAmine/GAFND/blob/main/EDA/Label%20Distribution.png?raw=true))
+</details>
+
 ## Usage
 
 You can access and download the dataset from the following link:  
