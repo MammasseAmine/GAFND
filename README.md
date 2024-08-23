@@ -36,13 +36,13 @@ Below are visual representations of various aspects of the dataset.
 
 <details>
   <summary>Label Distribution</summary>
-![Label Distribution]([path/to/label_distribution.png](https://github.com/MammasseAmine/GAFND/blob/main/EDA/Label%20Distribution.png?raw=true))
+<img src="https://github.com/MammasseAmine/GAFND/blob/main/EDA/Label%20Distribution.png?raw=true">
 </details>
 
 ## Usage
 
 You can access and download the dataset from the following link:  
-<img src="https://github.com/MammasseAmine/GAFND/blob/main/EDA/Label%20Distribution.png?raw=true">
+[Download GAFND](https://drive.google.com/file/d/1BdxUs_ObDSAo3F9jXp8AfCcfwAUMmhB-/view?usp=sharing)
 
 [Provide instructions on how to load and use the dataset]
 
