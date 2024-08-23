@@ -1,4 +1,4 @@
-# GAFND
+![image](https://github.com/user-attachments/assets/7751c705-f7b5-4a95-9e63-2021a60df3a8)# GAFND
 The Global Arabic Fake News Dataset (GAFND) is a comprehensive and unified resource designed to enhance fake news detection in the Arabic-speaking world. This dataset integrates and preprocesses three existing datasets: AFND, ANS, and AraFacts.
 
 # Dataset Description
@@ -37,6 +37,26 @@ Below are visual representations of various aspects of the dataset.
 <details>
   <summary>Label Distribution</summary>
 <img src="https://github.com/MammasseAmine/GAFND/blob/main/EDA/Label%20Distribution.png?raw=true">
+</details>
+
+<details>
+  <summary>Label Proportions</summary>
+<img src="https://github.com/MammasseAmine/GAFND/blob/main/EDA/Label%20Proportions.png?raw=true">
+</details>
+
+<details>
+  <summary>Distribution of Text Lengths</summary>
+<img src="https://github.com/MammasseAmine/GAFND/blob/main/EDA/Distribution%20of%20Text%20Lengths.png?raw=true">
+</details>
+
+<details>
+  <summary> Text Length Distribution by Label</summary>
+<img src="https://github.com/MammasseAmine/GAFND/blob/main/EDA/Distribution%20of%20Text%20Lengths%20by%20Class.png?raw=true">
+</details>
+
+<details>
+  <summary>Average Text Length by Label</summary>
+<img src="https://github.com/MammasseAmine/GAFND/blob/main/EDA/Average%20Text%20Length%20by%20Label.png?raw=true">
 </details>
 
 ## Usage
